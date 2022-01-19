@@ -4,4 +4,4 @@ date: 2022-01-17T22:03:53Z
 draft: false
 ---
 
-## I love it very much.
+## I love Continuous Deployment? Really
